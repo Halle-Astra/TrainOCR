@@ -1,0 +1,15 @@
+{
+  "origin": "Data/192.168.89.254_011_粤丰专线球机_S20211019102741_E20211019103053_Moment.ts",
+  "line_left": [[724,0],[288,1080]],
+  "line_right": [[1169,0],[1666,1080]],
+  "img_height": 1080,
+  "img_wide": 1920,
+  "stride": 150,
+  "crop_height": 1080,
+  "show": true,
+  "stride_num": 1,
+  "det_model_dir": "./model_gutao/det",
+  "rec_model_dir": "./model_gutao/rec",
+  "use_gpu": false,
+  "gpu_mem": 8000
+}
